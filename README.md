@@ -1,8 +1,12 @@
+# This fork:
+Deckblatt f�r Fakult�t DM modifiziert und angepasst.
+Modified title page.
+
 # LaTeX Template HFU-CS
 
-LaTeX Vorlage für wissenschaftliche Arbeiten und Thesis-Dokumente der Fakultät Informatik an der Hochschule Furtwangen University konform nach Version 3.2 der Richtlinie für die Erstellung wissenschaftlicher Arbeiten vom 27.09.2013.
+Modifizierte LaTeX Vorlage für wissenschaftliche Arbeiten und Thesis-Dokumente der Fakultät Informatik an der Hochschule Furtwangen University konform nach Version 3.2 der Richtlinie für die Erstellung wissenschaftlicher Arbeiten vom 27.09.2013.
 
-LaTeX template for scientifc papers and thesis documents for department of computer science at Hochschule Furtwangen University compliant to version 3.2 of guideline for creation of scientific papers from 2013-09-27.
+Modified LaTeX template for scientifc papers and thesis documents for department of computer science at Hochschule Furtwangen University compliant to version 3.2 of guideline for creation of scientific papers from 2013-09-27.
 
 ## License:
 

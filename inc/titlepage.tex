@@ -2,25 +2,36 @@
 
 \begin{titlepage}
 	\thispagestyle{empty}
-	\includegraphics[height=2cm,right]{img/Logo_HFU_rz_4c}
+{
+\fontfamily{phv}\fontseries{mc}\selectfont % use Arial Narrow :Q
+
+	\includegraphics[height=2.5cm,right]{img/Logo_HFU_rz_4c}
+	\vspace{30pt}
+		\begin{flushright}
+			Bearbeitungsbeginn:  \bearbeitungsbeginn\\
+			Vorgelegt am:  \vorlagedatum\\
+		\end{flushright}
+	
 	\enlargethispage{20mm}
-	\begin{center}
-		{\fontsize{18pt}{27pt}\selectfont \artderarbeit \\ in \\ \studiengang \\[1em]}
-		{\setstretch{0.5}\fontsize{22pt}{55pt}\selectfont \textbf \titel \\[1em]}
-		{\setstretch{0.75}\fontsize{18pt}{27pt}\selectfont \untertitel \\}
-		\vfill
-		\parbox{0cm}{\begin{tabbing}
-			mmmmmmmmmm \= \kill
-			Referent: \> \referent\\
-			Koreferent: \> \koreferent\\
-			Vorgelegt am: \> \vorgelegtam\\
-			Vorgelegt von: \> \studentname\\
-			\> \studentnr\\
-			\> \studentstr\\
-			\> \studentstadt\\
-			\> \studentemail\\
-		\end{tabbing}}
-	\end{center}
+	\vspace{35pt}
+	{\setstretch{0.5} \huge \textbf \artderarbeit \\[0.5em]}
+	{\setstretch{0.5} \large zur Erlangung des Grades \\[0.5em]}
+		{\setstretch{0.5}\large \textbf \grad \\[0.5em]}
+		{\setstretch{0.5}\large im Studiengang \studiengang \\[0.5em]}
+		{\setstretch{0.5}\large an der Fakultät Digitale Medien   \\[5em]}
+		\noindent
+		{\setstretch{0}  \Large \textit{ \textbf{ \studentname  } } \\ [0.75em]}
+		{\setstretch{0.5} \large \textit{ \textbf{ Matrikelnummer: \studentnr} } \\ [1em]}
+		\\
+		\\
+		{\setstretch{0.5}\Large \textbf \titel \\[1.5em]}
+		%{\setstretch{0.75}\fontsize{18pt}{27pt} \untertitel \\}
+
+		\vspace{50pt}	
+		
+		{\setstretch{0.5}\fontsize{18pt}{27pt} \textit{ Erstbetreuer: \hspace{70pt} \erstbetreuer } \\[1em]}
+		{\setstretch{0.75}\fontsize{18pt}{27pt} \textit{ Zweitbetreuer: \hspace{70pt}\zweitbetreuer } \\}
+}
 \end{titlepage}
 
 \cleardoubleemptypage
