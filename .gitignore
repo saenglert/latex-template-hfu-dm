@@ -109,4 +109,5 @@ sympy-plots-for-*.tex/
 *.xdy
 
 # img dir
-/img
+img/*
+!img/.gitkeep
